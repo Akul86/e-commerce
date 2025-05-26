@@ -10,12 +10,12 @@ React.js Vite Tailwind CSS Server:
 Node.js Express.js MongoDB (Mongoose)
 
 Features:
-Users can create accounts and log in
-Browse products by category
-Add products to shopping cart
-Place orders and view order history
-Admin can add, update, and delete products
-Responsive design works on phones and computers
+Users can create accounts and log in,
+Browse products by category,
+Add products to shopping cart,
+Place orders and view order history,
+Admin can add, update, and delete products,
+Responsive design works on phones and computers,
 
 # React + Vite
 
